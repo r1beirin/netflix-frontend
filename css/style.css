@@ -40,6 +40,7 @@ header{
     background: none;
     color: white;
     border: none;
+    margin: 0 10px;
 }
 
 #logo{
@@ -65,8 +66,8 @@ a{
 
 #search{
     width: 100%;
-    border-radius: 0.5em;
     height: 1.5rem;
-    border: none;
+    border: 1PX solid white;
+    background-color: transparent;
 }
 
